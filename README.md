@@ -1,10 +1,6 @@
 Securechatcoin-Wallet
 ----------------------------------
 
-## SecurechatCoin done right
-
-The simplest and most secure SecurechatCoin wallet on any platform
-
 ### The first standalone iOS SecurechatCoin wallet:
 
 Unlike other iOS bitcoin wallets, **Securechatcoin-Wallet** is a real standalone SecurechatCoin client. There is no server to get hacked or go down, so you can always access your money. Using [SPV](https://en.bitcoin.it/wiki/Thin_Client_Security#Header-Only_Clients) mode, **Securechatcoin-Wallet** connects directly to the SecurechatCoin network with the fast performance you need on a mobile device.
